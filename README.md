@@ -1,6 +1,6 @@
 # 3D Scanner Project
 
-[Demo of the project](https://www.youtube.com/watch?v=gsEvquIuEU4)
+[Video demo of the project](https://www.youtube.com/watch?v=gsEvquIuEU4)
 
 **Author:** Nghi Dao
 
