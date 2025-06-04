@@ -42,7 +42,7 @@ The code is modular, with each component operating independently. Key components
 
 After scanning, the data is downloaded as a CSV file and visualized. Below is an example of a generated point cloud.
 
-![Result](images/result.png)
+![Result](images/Scan result.png)
 
 ## Challenges
 
