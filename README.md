@@ -1,7 +1,5 @@
 # 3D Scanner Project
 
-[![IMAGE ALT TEXT HERE]](https://www.youtube.com/watch?v=gsEvquIuEU4)
-
 **Author:** Nghi Dao
 
 ## Abstract
