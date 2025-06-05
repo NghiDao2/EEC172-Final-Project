@@ -4,6 +4,15 @@
 
 **Author:** Nghi Dao
 
+## Instruction
+
+- Refer to Configuration.h for pin connections
+- Set up an AWS IoT Thing Shadow and DynamoDB
+- Replace the links in AWSIoT.h
+- Set up the Wifi connection in commons.h
+- Run code and download result.csv from AWS DynamoDB into the root folder
+- Run the notebook to visualize the result
+
 ## Abstract
 
 The 3D scanner is a device designed to map out the surface of small 3D objects using a point cloud. The scanner collects data and uploads it to Amazon AWS DynamoDB via AWS IoT. The data can then be downloaded and visualized using Python.
