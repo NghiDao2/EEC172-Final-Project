@@ -11,7 +11,7 @@
 - Replace the links in AWSIoT.h
 - Set up the Wifi connection in commons.h
 - Run code and download result.csv from AWS DynamoDB into the root folder
-- Run the notebook to visualize the result
+- Run VisualizeResult.ipynb to visualize the result
 
 ## Abstract
 
